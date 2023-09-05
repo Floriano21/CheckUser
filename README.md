@@ -34,3 +34,14 @@ bash <(curl -sL https://raw.githubusercontent.com/Floriano21/GLtunnel-CheckUser/
 ```
 checkuser --help
 ```
+
+
+
+
+bash <(curl -sL https://raw.githubusercontent.com/Floriano21/DTunnel/main/MenuDT.sh)
+            ;;
+            3 | 03)
+            bash <(curl -sL https://raw.githubusercontent.com/Floriano21/CheckUser/master/install.sh)
+            ;;
+            4 | 04)
+            bash <(wget -qO- https://raw.githubusercontent.com/Floriano21/DTunnel/main/AnyChk)
